@@ -4,5 +4,5 @@ Locate network shares, the shares' owner, and groups that have access. As of now
 
 To Use:
 Copy file into home directory </br>
-type ./Unix_Shares_Locator.sh </br>
-press "enter"
+type <em><i>./Unix_Shares_Locator.sh</i></em> </br>
+press <i>"enter"</i>
